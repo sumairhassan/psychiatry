@@ -1,6 +1,7 @@
 ## Welcome to Precision Psychiatry
 
 AIMS
+
 Reveal disease mechanisms and develop tools for outcome prediction in severe mental illness
 
 Disclose the genetic architecture of psychotic disorders and determine their functional impact

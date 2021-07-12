@@ -5,8 +5,11 @@ _AIMS_
 Reveal disease mechanisms and develop tools for outcome prediction in severe mental illness
 
 . Disclose the genetic architecture of psychotic disorders and determine their functional impact
+
 . Identify brain imaging phenotypes linking genes and clinical phenotypes in a longitudinal setting
+
 . Use genetic, environmental and clinical factors to predict disease progress and outcome
+
 . Translate pathophysiological discoveries into clinical and pharmacological interventions
 
 ### Markdown
